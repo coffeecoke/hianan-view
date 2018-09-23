@@ -1,0 +1,18 @@
+{
+    "totalData":{
+        "totalCount":84,
+        "time":"2018-09-01 12:00"
+    },
+    "riskData" : {
+        "riskCount" : 68,
+        "highRishCount" : 1,
+        "illegalCount" : 5,
+        "p2p":10    
+    },
+    "industryData" : [
+        {"name":"小额贷款公司", "code":"01","max":100,"value":60},
+        {"name":"股权交易场所", "code":"02","max":200,"value":1},
+        {"name":"地方交易场所", "code":"03","max":300,"value":4},
+        {"name":"P2P公司", "code":"04","max":400,"value":8}
+    ]
+}
